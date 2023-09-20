@@ -1,1 +1,0 @@
-All of the source code is in NBPart1.py. It includes a main method that takes a csv file in the format provided and a random seed and uses them to create, train, and test a model using Naive Bayes. The rest is the NaiveBayes class which includes methods to train and test the model. As output, it creates a csv file containing a confusion matrix.
